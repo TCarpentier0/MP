@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output
+output/
+
+# Vector databases (too large — share via external link)
+bsDD/bsdd_vector_db/
+EXPRESS/ifc_vector_db/
+
+# Backup files
+*_Origineel.py
